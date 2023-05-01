@@ -10,7 +10,7 @@
 
 ```shell
 ~] gfortran -c fgreg2jul.f90 <Enter>
-~] gfortran -o example test_fgreg2jul.f90 fgreg2jul.o
+~] gfortran -o example test_fgreg2jul.f90 fgreg2jul.o <Enter>
 ```
 
 
